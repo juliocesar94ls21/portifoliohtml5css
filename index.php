@@ -1,0 +1,43 @@
+<html>
+<head>	
+<title>Portifólio</title>
+<style>
+body{
+	margin: 0;
+	padding: 0;
+}
+a{
+	width: 50vw;
+	padding: 50px;
+}
+#div1 img, #div2 img{
+	max-width: 100%;
+	height: auto;
+	box-shadow: 0 0 12px 4px #d5d5d5;
+}
+#main{
+	display: flex;
+	margin-top: 50px;
+}
+#main div p{
+	text-align: center;
+}
+</style>
+</head>
+<body>
+<div id="main">
+	<a href="/george-smith-portifolio/demo-light1/"/>
+		<div id="div1">
+			<p>Demo Light 1</p>
+			<img src="port2.png" />
+		</div>
+	</a>
+	<a href="/george-smith-portifolio/demo-light2/"/>
+		<div id="div2">
+			<p>Demo Light 2</p>
+			<img src="port1.png" />
+		</div>
+	</a>
+</div>
+</body>
+</html>
