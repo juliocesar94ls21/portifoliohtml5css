@@ -1,0 +1,28 @@
+Template HTML5 - Licenciado sob Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Autor: Julio Cesar
+Website/Portfólio: https://portifoliohtml5css.vercel.app
+
+Você tem permissão para:
+
+✔️ Usar este template para fins pessoais ou educacionais
+✔️ Copiar, redistribuir e modificar o conteúdo
+✔️ Adaptar para seus próprios projetos
+
+Sob as seguintes condições:
+
+⚠️ Atribuição obrigatória — Você deve dar os devidos créditos ao autor original (Julio Cesar),
+incluir um link para a licença e indicar se alterações foram feitas.
+
+🚫 Uso comercial proibido — Este template não pode ser utilizado, direta ou indiretamente,
+para fins comerciais, monetização ou qualquer atividade que envolva lucro.
+
+📄 Link da licença: https://creativecommons.org/licenses/by-nc/4.0/
+
+Não há garantias — Este template é fornecido "no estado em que se encontra", sem garantias de qualquer tipo.
+O autor não se responsabiliza por danos ou prejuízos causados pelo uso do material.
+
+---
+
+Exemplo de atribuição sugerido:
+"Template desenvolvido por Julio Cesar – Licenciado sob CC BY-NC 4.0"
